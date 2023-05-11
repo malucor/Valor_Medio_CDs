@@ -1,2 +1,2 @@
 # Valor_Medio_CDs
-Programa no Python para calcular o valor total investido por um colecionador em sua coleção de CDs e o valor médio gasto em cada um deles.
+Python program to calculate the total amount invested by a collector in his CD collection and the average amount spent on each of them.
